@@ -1,4 +1,6 @@
-# NTIRE 2026 Image Denoising (σ=50) — Team 08
+# NTIRE 2026 Image Denoising (σ=50) — Team Noice (6th Place)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.16031-b31b1b.svg)](https://arxiv.org/abs/2606.16031)
 
 ## Setup
 
